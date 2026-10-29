@@ -1,0 +1,6 @@
+carrental-frontend/node_modules/
+carrental-frontend/.next/
+carrental-backend/target/
+.env
+.env.*
+!.env.example

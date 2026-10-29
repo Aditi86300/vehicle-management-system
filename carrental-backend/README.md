@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CarRental Backend (Spring Boot + PostgreSQL)
 
 ## Setup
@@ -31,3 +32,6 @@
 | POST/PUT/DELETE | /api/admin/cars/** | Admin only |
 | GET | /api/admin/bookings | Admin only |
 | GET | /api/admin/users | Admin only |
+=======
+
+>>>>>>> 16d3837d832d8ed57e1e7dd94821520eb341c66d
